@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "434158480577",
+    "firebase_url": "https://flutter-singin-889c5.firebaseio.com",
+    "project_id": "flutter-singin-889c5",
+    "storage_bucket": "flutter-singin-889c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434158480577:android:ccaefad047fd6735777840",
+        "android_client_info": {
+          "package_name": "com.rubenramos.flutter.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434158480577-oqic9kev2taqkqa8l3pq03j9bmftcjh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rubenramos.flutter.firebase",
+            "certificate_hash": "919e7449a099da5c9f9db6125dca4f7c2137c198"
+          }
+        },
+        {
+          "client_id": "434158480577-lts48dqnqemctbgnp35t10rb9u0h2upq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFcW3WlL1cT76tgwZuXNtq28iRlsNVW8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434158480577-lts48dqnqemctbgnp35t10rb9u0h2upq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
